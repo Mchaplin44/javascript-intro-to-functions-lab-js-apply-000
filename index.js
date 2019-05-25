@@ -15,5 +15,5 @@ console.log('hello')
 }
 
 function sayHiToGrandma(string) {
-return "I can't hear you!".toMixedCase()
+return "I can't hear you!".toUpperCase()
 }
