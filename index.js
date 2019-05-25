@@ -21,4 +21,4 @@ if (string.toLowerCase() === string){
 if (string.toUpperCase() === string){
   return "YES INDEED!";
 }
-}
+if 
